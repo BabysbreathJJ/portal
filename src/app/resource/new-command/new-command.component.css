@@ -1,0 +1,12 @@
+mat-vertical-stepper {
+  clear: both;
+}
+
+mat-dialog-actions {
+  justify-content: flex-end;
+}
+
+.cmd-line {
+  width: 100%;
+}
+
